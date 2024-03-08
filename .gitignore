@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+/python/build/
+/python/inductor_mlir.egg-info/
+/python/inductor_mlir/_C/
+/build/
+compile_commands.json
